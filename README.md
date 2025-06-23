@@ -1,4 +1,4 @@
-# Python Snake Gam
+# Python Snake Game
 
 A classic Snake game implementation using the Pygame library. This project demonstrates fundamental game development concepts including game loops, collision detection, user input handling, and simple graphics rendering.
 
